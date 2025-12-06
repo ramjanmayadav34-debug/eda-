@@ -9,6 +9,7 @@ It helps analyze datasets, visualize patterns, and generate insights.
 - Summary statistics
 - Automated analysis functions
 - Colab notebook support
+- 
 
 ## 📦 Installation
 Install all required packages using:
